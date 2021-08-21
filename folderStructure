@@ -1,0 +1,11 @@
+Folder Structures 
+
+inside src -> 
+
+store
+features
+
+inside features -> component(folder), slice.js(reducers,thunk,,selectors etc), api.js(all API calls)
+
+index.js -> where wrap it in store 
+App.js -> is the actual routing (showcase different screens)

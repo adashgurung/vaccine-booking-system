@@ -1,0 +1,173 @@
+{
+  "users": [
+    {
+      "id": "80f9ae99-67bc-45b1-a3b2-c97906ecafac",
+      "username": "hunter",
+      "email": "hunter@eduonix.com",
+      "age": "18",
+      "gender": "Male",
+      "role": "User",
+      "password": "racecar"
+    },
+    {
+      "id": "miketyson8057c4f1-b6ae-4798-91e0-e93015ae729e",
+      "username": "miketyson",
+      "email": "mike@eduonix.com",
+      "age": "52",
+      "gender": "Male",
+      "role": "User",
+      "password": "123123"
+    },
+    {
+      "id": "ashish0d4820be-f145-464b-84dc-078ff213920c",
+      "username": "ashish",
+      "email": "ash@outlook.com",
+      "age": "33",
+      "gender": "Male",
+      "role": "User",
+      "password": "abcabc"
+    },
+    {
+      "username": "ashish",
+      "email": "ash@outlook.com",
+      "age": "33",
+      "gender": "Male",
+      "role": "User",
+      "password": "abcabc",
+      "id": "L_QjwP1"
+    },
+    {
+      "username": "ashish",
+      "email": "ash@outlook.com",
+      "age": "33",
+      "gender": "Male",
+      "role": "User",
+      "password": "abcabc",
+      "id": "A5FISE4"
+    },
+    {
+      "username": "ashish",
+      "email": "ash@outlook.com",
+      "age": "33",
+      "gender": "Male",
+      "role": "User",
+      "password": "abcabc",
+      "id": "y-AF23l"
+    },
+    {
+      "id": "adamGurungee3d4eaf-9ab2-42d2-9920-2705aabaad28",
+      "username": "adamGurung",
+      "email": "adashleo@outlook.com",
+      "age": "32",
+      "gender": "Male",
+      "role": "User",
+      "password": "abcabc"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "693f2eff-e901-4f1c-bdc9-580c96993ce1",
+      "name": "fausto",
+      "email": "fausto@eduonix.com",
+      "age": "17",
+      "hospital": "CARE HOSPITAL",
+      "vaccine": "Covaxin",
+      "mobile": "1234567890",
+      "appointmenttime": "2021-08-01T10:00",
+      "user_id": "80f9ae99-67bc-45b1-a3b2-c97906ecafac",
+      "bookingtime": "2021-08-01T15:28:56.331Z",
+      "status": "booked"
+    },
+    {
+      "id": "d6feae8a-0e84-414f-9a43-4d1cfb20bdab",
+      "name": "adam gurung",
+      "email": "adashleo@outlook.com",
+      "age": "32",
+      "hospital": "APOLLO HEALTH CARE",
+      "vaccine": "Covishield",
+      "mobile": "123456789",
+      "appointmenttime": "2021-08-13T13:20",
+      "user_id": "8397da27-aa71-4b69-bdd9-d0b629aa5339",
+      "bookingtime": "2021-08-10T13:20:10.076Z",
+      "status": "booked"
+    },
+    {
+      "id": "bce01b73-e43a-4bb8-a1cc-56f31ab2137b",
+      "name": "newhunter",
+      "email": "adashleo@outlook.com",
+      "age": "50",
+      "hospital": "CARE HOSPITAL",
+      "vaccine": "Covaxin",
+      "mobile": "2312321",
+      "appointmenttime": "2021-08-28T18:23",
+      "user_id": "hunter80f9ae99-67bc-45b1-a3b2-c97906ecafac",
+      "bookingtime": "2021-08-10T17:23:18.412Z",
+      "status": "booked"
+    },
+    {
+      "id": "b9af8f79-ec3a-4cc8-97ae-48bd2b353604",
+      "name": "ashishgurung",
+      "email": "ash@outlook.com",
+      "age": 30,
+      "hospital": "CARE HOSPITAL",
+      "vaccine": "Covaxin",
+      "mobile": "123456789",
+      "appointmenttime": "2021-08-21T15:18",
+      "user_id": "ashish0d4820be-f145-464b-84dc-078ff213920c",
+      "bookingtime": "2021-08-11T14:18:54.638Z",
+      "status": "booked"
+    },
+    {
+      "id": "ecbd4e0b-96b5-48a8-91e9-3eaef48aea68",
+      "name": "simbagurung",
+      "email": "simba@outlook.com",
+      "age": "2",
+      "hospital": "GANDHI HOSPITAL",
+      "vaccine": "Covishield",
+      "mobile": "12312312321",
+      "appointmenttime": "2021-08-13T15:24",
+      "user_id": "ashish0d4820be-f145-464b-84dc-078ff213920c",
+      "bookingtime": "2021-08-11T14:24:54.063Z",
+      "status": "booked"
+    },
+    {
+      "id": "1631af98-2e17-4290-bc31-d99e69b740df",
+      "name": "adash gurung",
+      "email": "adashleo@outlook.com",
+      "age": "31",
+      "hospital": "CARE HOSPITAL",
+      "vaccine": "Covaxin",
+      "mobile": "131221321",
+      "appointmenttime": "2021-08-15T18:55",
+      "user_id": "ashish0d4820be-f145-464b-84dc-078ff213920c",
+      "bookingtime": "2021-08-11T14:50:31.150Z",
+      "status": "booked"
+    },
+    {
+      "id": "ed708995-525a-4b96-9446-eb43ec76fa7b",
+      "name": "babu rao",
+      "email": "baburaoganpatrauaptey@gmail.com",
+      "age": "52",
+      "hospital": "GANDHI HOSPITAL",
+      "vaccine": "Covaxin",
+      "mobile": "0987654321d",
+      "appointmenttime": "2021-08-15T18:05",
+      "user_id": "ashish0d4820be-f145-464b-84dc-078ff213920c",
+      "bookingtime": "2021-08-16T17:05:53.922Z",
+      "status": "booked"
+    },
+    {
+      "id": "4b1457eb-17db-407f-830e-d888b801e263",
+      "name": "RandomUser",
+      "email": "random@gmail.com",
+      "age": "56",
+      "hospital": "FEVER HOSPITAL",
+      "vaccine": "Covaxin",
+      "mobile": "234124231",
+      "appointmenttime": "2021-08-15T18:17",
+      "user_id": "adamGurungee3d4eaf-9ab2-42d2-9920-2705aabaad28",
+      "bookingtime": "2021-08-21T13:13:25.280Z",
+      "status": "booked"
+    }
+  ]
+}
