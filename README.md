@@ -1,5 +1,5 @@
-React router, Materail UI modal, Render props
-User signup
-user login 
-user bookings
+React router, Materail UI-modal, Render props,
+User signup,
+user login, 
+user bookings, view bookings
 
